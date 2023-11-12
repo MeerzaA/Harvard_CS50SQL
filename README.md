@@ -4,4 +4,3 @@ CS50-SQL is Harvard University’s introduction to databases using a language ca
 
    The course begins with SQLite for portability’s sake and ends with introductions to PostgreSQL and MySQL for scalability’s sake as well. Assignments inspired by real-world datasets.
 
-   Whereas CS50x itself focuses on computer science more generally as well as programming with C, Python, SQL, and JavaScript, this course, aka CS50 SQL, is entirely focused on SQL. You can take CS50 SQL before CS50x, during CS50x, or after CS50x. But for an introduction to computer science itself, you should still take CS50x!
